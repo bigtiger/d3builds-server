@@ -1,0 +1,22 @@
+klasses:
+ barbarian:
+   primary:
+     - Bash
+     - Cleave
+     - Frenzy
+   secondary:
+     - Hammer of the Ancients
+     - Rend
+     - Seismic Slam
+     - Whirlwind
+     - Ancient Spear
+   defensive:
+     - Ground Stomp
+     - Leap
+     - Sprint
+     - Ignore Pain
+ crusader: []
+ demon_hunter: []
+ monk: []
+ witch_doctor: []
+ wizard: []
